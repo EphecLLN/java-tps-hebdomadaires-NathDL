@@ -1,0 +1,11 @@
+	* JAVA - TP5 *
+
+-- Exercice à préparé avec GIT :
+1 - Faire un "Fork" dans GitHub afin d'avoir une branche pour travailler sur le repo sans interférer avec la branche
+principale.
+2 - Importer la copie du repo dans Eclipse pour travailler dessus.
+3 - Une fois les changements voulu effectués, faire un "commit" et "push" sur le master (qui notre branche master perso).
+4 - Retourner dans GitHub et effectuer un "pullRequest" sur le repo.
+
+/!\ Lorsque que l'on push sur un repo, il faut éviter de push les fichiers ".class"... Pour ce faire, il existe une option
+dans GIT qui permet d'ignorer ces fichiers, il s'agit de l'option "Git ignore".
